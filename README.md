@@ -1,8 +1,7 @@
 # Risco de Crédito: Previsão de Inadimplência
 
 ## 1. Pergunta de negócio
-<uma frase: quem decide, qual decisão, o que otimizar>
-
+Como a área de crédito pode estimar a probabilidade de inadimplência de cada solicitante no momento da análise, para apoiar a decisão de aprovar ou negar o crédito e reduzir perdas?
 ## 2. Dados
 - Fonte: <dataset e link>
 - Tabela usada nesta fase: <nome>
